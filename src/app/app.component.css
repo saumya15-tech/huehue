@@ -1,0 +1,8 @@
+.go {
+  left: 200px;
+  top: 200px;
+}
+.submit {
+  position: absolute;
+  transition: 0.5s;
+}
